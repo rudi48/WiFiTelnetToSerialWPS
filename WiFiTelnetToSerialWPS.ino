@@ -36,7 +36,7 @@
  *      Reset Method: "ck"
  *      Upload Speed: "115200"
  *  
- *  Connection of ESP8266 GPIO0 and GPIO2 for WPS button:
+ *  Connection of ESP8266 GPIO0 and GPIO2 for WPS button and LED indicator:
  *         Vcc  Vcc       Vcc = 3.3 V
  *          |    |         |
  *         4K7  4K7       1k0  pull up resistors (3K3 to 10K Ohm)
