@@ -2,7 +2,7 @@
 WPS example with application WiFiTelnetToSerial
 
 
-WPS (WiFi Protected Setup, see [how-does-wi-fi-protected-setup-work](http://www.wi-fi.org/knowledge-center/faq/how-does-wi-fi-protected-setup-work) allows to connect to a new **WiFi Access Point** via **push button switch**, instead of entering the **credentials** manually. 
+WPS (WiFi Protected Setup), see [how-does-wi-fi-protected-setup-work](http://www.wi-fi.org/knowledge-center/faq/how-does-wi-fi-protected-setup-work) allows to connect to a new **WiFi Access Point** via **push button switch**, instead of entering the **credentials** manually. 
 
 By combining 3 pieces of existing software I made it to allow an **Access Point change** for the **Serial Transparent Bridge** (application program) just by using a **Push Button switch** together with a WPS functionality.
 
